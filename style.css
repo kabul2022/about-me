@@ -50,6 +50,8 @@ p {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+  display: block;
+  margin: 0 auto;
 }
 
 .secondary-link {
